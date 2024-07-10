@@ -1,8 +1,5 @@
-import Layout from '@/components/Layout';
-
 export default function Page() {
   return (
-      <Layout title='About me' description='The page with information about me'>
         <div>
           <h1 style={header1}>About me</h1>
           <h3 style={maintext}>I am Aleliya. I am 18 years old and I am an bachelor student at Innopolis University.
